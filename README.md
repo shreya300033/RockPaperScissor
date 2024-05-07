@@ -25,13 +25,13 @@ This is a simple Python implementation of the classic rock-paper-scissors game.
 2. Navigate to the project directory:
 
    ```bash
-   cd rock-paper-scissors
+   cd RockPaperScissors
    ```
 
 3. Run the game:
 
    ```bash
-   python rps_game.py
+   python RockPaperScissors.py
    ```
 
 4. Follow the prompts to play the game.
